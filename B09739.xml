@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable the Lord Mayor: to the Right Worshipful the Alderman: with the commonalty of the City of London, in their Common-Hall assembled : the humble, and last address of Sir Tho. Player senior, Chamberleyn of London.</title>
+            <author>Player, Thomas, Sir, 1608-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09739</idno>
+            <idno type="STC">Wing P2417B</idno>
+            <idno type="STC">ESTC R224397</idno>
+            <idno type="EEBO-CITATION">64551556</idno>
+            <idno type="OCLC">ocm 64551556</idno>
+            <idno type="VID">184697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184697)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable the Lord Mayor: to the Right Worshipful the Alderman: with the commonalty of the City of London, in their Common-Hall assembled : the humble, and last address of Sir Tho. Player senior, Chamberleyn of London.</title>
+                  <author>Player, Thomas, Sir, 1608-1672.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Player, Thomas, --  Sir, 1608-1672 --  Death and burial.</term>
+               <term>London (England) --  History --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184697:1"/>
+            <head>To the Right Honourable the <hi>LORD MAYOR:</hi> The Right Worſhipful the <hi>ALDERMEN:</hi> With the Commonalty of the City of <hi>LONDON,</hi> in their <hi>Common-Hall</hi> aſſembled:<lb/>
+The humble, and laſt Addreſs OF Sir <hi>THO. PLAYER</hi> Senior, Chamberleyn of London.</head>
+            <opener>
+               <salute>My Lord, and Gentlemen,</salute>
+            </opener>
+            <p>I Have by the good providence of God over me, and your extraordinary kindneſs, ſerved You in the Office of <hi>CHAMBERLEYN</hi> for above one and twenty years.</p>
+            <p>And now I am going to appear before the Righteous Judge of all the Earth, to give an account, not only of my whole life, but of the particular management of my ſelf in that great Imployment you ſo long ſince called me to, and have continued me ſo long in. I find through the grace of God, great joy and peace in my mind, for having endeavoured to my utmoſt to Serve you with all faithfulneſs and integrity; and my Joy is increaſed by Your continued acceptance of my upright and ſincere Services.</p>
+            <p>If I have any troubleſome or diſturbing thoughts in the laſt minutes of my life, they ariſe only becauſe I am not capable of Serving any longer ſo good Maſters as you have been to me.</p>
+            <p>I have not expreſſions large enough to ſet forth the grateful ſenſe I have of Your long love: For as I have been a careful and affectionate Father to the Orphans of this City, ſo have I found You moſt affectionate Maſters unto me, alwayes incouraging my weak abilities in the work You ſet me about.</p>
+            <p>When I firſt entered upon the <hi>Chambers</hi> Imployment, I found Your Caſh very low, and your Credit much lower, and this made my dayes and nights a burden to me.</p>
+            <p>God Almighty will witneſs for me, the ſorrows that I then endured, upon the conſideration of the deplorable ſtate of the <hi>Chamber</hi> of <hi>LONDON,</hi> and the hazards I then run, in ingaging my whole Credit, taking up mony upon my own Bond, to ſave ſome of your Orphans from ruine.</p>
+            <p>But God was pleaſed in a little time to recover Your Reputation; and that Reputation laſted till the deſtruction of your City by the late dreadful Fire, when I was with ſome difficulty carryed forth from the diſmal Flames that were ready to ſeize this Hall.</p>
+            <p>I was then forc't to uſe all the honeſt arts I had to incourage Your Orphans, and others to whom You owed mony, who then feared their Portions would have been buried and loſt in the rubbiſh of Your waſted City.</p>
+            <p>That difficulty alſo I have ſeen overcome, and I have lived ſome years to ſee Your <hi>City</hi> and Your <hi>Chamber</hi> riſe up together more beautiful then before.</p>
+            <p>And now I have beheld this, what can I deſire more in this World, but that as You have accepted my poor paſt Services, ſo You will accept my hearty and unfeigned Thanks, together with my moſt ardent Prayers that You may ſtill be a glorious City, and that your paſt miſeries and deſolations, may be the laſt that you may ever ſee.</p>
+            <p>And if the teſtimony of your dying <hi>Chamberleyn</hi> may have any credit with You, That my Son (who hath been a Freeman of this City near 32 years) of whoſe honeſt and induſtrious aſſiſting of me in my declining years I have had great experience, and of whoſe faithfulneſs and ability I go out of the world with great confidence) may ſtand fair before You in his Election to ſucceed in my Office; Which I ſur<g ref="char:EOLhyphen"/>render to You from whom I firſt received it.</p>
+            <closer>
+               <dateline>Given under my Hand <date>this thirteenth day of <hi>November,</hi> 1672.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
